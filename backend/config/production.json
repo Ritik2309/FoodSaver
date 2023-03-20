@@ -1,0 +1,6 @@
+{
+  "DB_URI": "mongodb+srv://Ritik:Ritik231009@cluster.cwzw8.mongodb.net/fridgeManager?retryWrites=true&w=majority",
+  "PORT": "5000",
+  "JWTSecret": "JsonWT_FoodSaver",
+  "GoogleAPI": "AIzaSyCcigTzSvE3xXXD7b2UwHaTjQIPZ5lvDjc"
+}
